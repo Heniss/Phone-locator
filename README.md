@@ -25,7 +25,10 @@ The advantages of this project include:
 - High volume output, reaching up to 80 dB.
 - Adjustable clap detection sensitivity using a screwdriver, allowing individual customization for each user.
 
+## Visualization
 ![Visaulization](/visualization.png)
+## Necessary parts for the project
 ![Circuit parts](/circuit_parts.png)
+## Circuit diagram
 ![Circuit diagram](/circuit_diagram.pdf)
 
