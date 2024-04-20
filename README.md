@@ -24,7 +24,7 @@ Consequently, visually impaired or blind individuals can easily locate their dis
 - Adjustable clap detection sensitivity using a screwdriver, allowing individual customization for each user.
 
 ## Additional files
-The back and side view is visualized in **‘visualization.png’** file. The circuit diagram for the entire project **‘circuit_diagram.pdf’**, along with the required components **‘circuit_parts.png’**, is provided. The necessary code for the project is included in the **'main.cpp'** file, which is pre-installed on each device. 
+The back and side view is visualized in **‘visualization.png’** file. The circuit diagram for the entire project **‘diagram.png’**, along with the required components **‘circuit_parts.png’**, is provided. The necessary code for the project is included in the **'main.cpp'** file, which is pre-installed on each device. 
 Visual representation of the project is in **‘video.mov’** file.
 
 ## Visualization
@@ -32,5 +32,5 @@ Visual representation of the project is in **‘video.mov’** file.
 ## Necessary parts for the project
 ![Circuit parts](/circuit_parts.png)
 ## Circuit diagram
-![Circuit diagram](/circuit_diagram.pdf)
+![Circuit diagram](/diagram.png)
 
