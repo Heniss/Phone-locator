@@ -24,3 +24,5 @@ The advantages of this project include:
 - Minimal size, ensuring inconspicuous daily use.
 - High volume output, reaching up to 80 dB.
 - Adjustable clap detection sensitivity using a screwdriver, allowing individual customization for each user.
+
+![Circuit diagram](/circuit_diagram.pdf)
