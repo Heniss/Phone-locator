@@ -12,18 +12,20 @@ The design for this device is straightforward. A copper coil is centrally positi
 
 Although the input voltage from the receiver coil is approximately ~5.2V, the AMS1115 regulator ensures a consistent output of no more than 5V. 
 
-The back and side view is visualized in **‘visualization.png’** file. The circuit diagram for the entire project **‘circuit_diagram.pdf’**, along with the required components **‘circuit_parts.png’**, is provided. The necessary code for the project is included in the **'main.cpp'** file, which is pre-installed on each device. 
-Visual representation of the project is in **‘video.mov’** file.
-
+## Functioning of the device:
 A specially programmed sound sensor detects clapping sounds, triggering the buzzer if two claps are recorded within 200 milliseconds. Subsequently, the buzzer emits three 4kHz tones, each lasting one second. 
 
 Consequently, visually impaired or blind individuals can easily locate their discharged phones through auditory cues.
 
-The advantages of this project include:
+## The advantages of this project include:
 - Cost-effectiveness with each device priced at less than $5 when purchased, in wholesale quantities.
 - Minimal size, ensuring inconspicuous daily use.
 - High volume output, reaching up to 80 dB.
 - Adjustable clap detection sensitivity using a screwdriver, allowing individual customization for each user.
+
+## Additional files
+The back and side view is visualized in **‘visualization.png’** file. The circuit diagram for the entire project **‘circuit_diagram.pdf’**, along with the required components **‘circuit_parts.png’**, is provided. The necessary code for the project is included in the **'main.cpp'** file, which is pre-installed on each device. 
+Visual representation of the project is in **‘video.mov’** file.
 
 ## Visualization
 ![Visaulization](/visualization.png)
